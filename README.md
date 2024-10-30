@@ -17,3 +17,9 @@ python -m pip freeze > requirement.txt
 
 7. Correr el servidor
 fastapi dev .\main.py
+
+8. Instalar TestClient
+pip install httpx
+
+9. Instalar PyTest
+pip install pytest
