@@ -32,3 +32,10 @@ pip install httpx
 
 pip install pytest
 
+10. Iniciar la app
+
+uvicorn main:app --reload
+
+11. Ingresar a los métodos
+
+http://127.0.0.1:8000/docs
